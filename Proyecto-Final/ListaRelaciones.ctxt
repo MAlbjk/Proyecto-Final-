@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaRelaciones
+comment1.params=
+comment1.target=ListaRelaciones()
+comment2.params=
+comment2.target=boolean\ estaVacia()
+comment3.params=destino\ peso
+comment3.target=void\ agregarRelacion(Libro,\ float)
+comment4.params=destino
+comment4.target=boolean\ existeRelacion(Libro)
+comment5.params=titulo
+comment5.target=void\ eliminarRelacionPorTitulo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ obtenerRelacionesConPesos()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

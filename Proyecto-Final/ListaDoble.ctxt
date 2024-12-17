@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ListaDoble
+comment1.params=libro
+comment1.target=void\ agregarInicio(Libro)
+comment2.params=titulo
+comment2.target=boolean\ eliminar(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ listar()
+numComments=4

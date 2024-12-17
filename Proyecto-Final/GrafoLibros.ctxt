@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GrafoLibros
+comment1.params=
+comment1.target=GrafoLibros()
+comment2.params=
+comment2.target=boolean\ estaVacio()
+comment3.params=libro
+comment3.target=void\ agregarLibro(Libro)
+comment4.params=libro
+comment4.target=boolean\ existeLibro(Libro)
+comment5.params=titulo
+comment5.target=void\ eliminarNodo(java.lang.String)
+comment6.params=
+comment6.target=void\ generarRelacionesPorGenero()
+comment7.params=origen\ destino\ peso
+comment7.target=void\ agregarRelacion(Libro,\ Libro,\ float)
+comment8.params=libro
+comment8.target=java.lang.String\ obtenerRecomendaciones(Libro)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

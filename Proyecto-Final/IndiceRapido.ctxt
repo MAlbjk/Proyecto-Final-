@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IndiceRapido
+comment1.params=libro
+comment1.target=void\ agregarLibro(Libro)
+comment2.params=genero
+comment2.target=java.lang.String\ buscarPorGenero(java.lang.String)
+comment3.params=autor
+comment3.target=java.lang.String\ buscarPorAutor(java.lang.String)
+numComments=4
